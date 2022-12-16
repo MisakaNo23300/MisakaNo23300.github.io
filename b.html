@@ -3,20 +3,17 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-	<title>B</title>
+	<title>Boy</title>
 </head>
 <style> 
 </style>
 
 <body>
-<a>boy</a>
-</p>
-<a href="https://github.com/MisakaNo23300/MisakaNo23300.github.io">GitHub@MisakaNo23300</a>
+
 </body>
 
 <script type="text/javascript">
   
-//输出随机的背景图
     var imgAutoChangeURL = [];
 
 imgAutoChangeURL[0] = "https://cdn.donmai.us/original/b7/df/b7dffdc7532a8b93996e86cfd05ada92.jpg"; 
@@ -542,10 +539,14 @@ imgAutoChangeURL[519] = "https://cdn.donmai.us/original/c1/dd/c1ddfd1dbdefbed0aa
 
 
     var randomBgIndex = Math.round( Math.random() * imgAutoChangeURL.length - 1); //随机数
-    document.write('<body style="background-image:url('+ imgAutoChangeURL[randomBgIndex] +'); background-repeat:no-repeat;background-position:center;background-size:cover;">'); //壁纸设置
+    document.write('<img src="'+ imgAutoChangeURL[randomBgIndex] +'" alt="图片加载失败" width="1000" height="auto" />');//显示图片
     console.log(randomBgIndex +"/"+ imgAutoChangeURL.length);
+	
+	document.write('</p><a href="'+ imgAutoChangeURL[randomBgIndex] +'"> 图片链接：'+ imgAutoChangeURL[randomBgIndex] +' </a>');
+	
 	
 	
     </script>
-
+</p>
+<a href="https://github.com/MisakaNo23300/MisakaNo23300.github.io">GitHub@MisakaNo23300</a>
 </html>
