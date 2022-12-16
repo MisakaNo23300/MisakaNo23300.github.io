@@ -52,14 +52,13 @@
 		}
 </style> 
 
-<body style="background-image:url('https://www.helloimg.com/images/2022/12/15/o5rCaK.jpg'); background-repeat:no-repeat;background-position:center;background-size:cover;">
+<body>
+<!--body style="background-image:url('https://www.helloimg.com/images/2022/12/15/o5rCaK.jpg'); background-repeat:no-repeat;background-position:center;background-size:cover;"-->
 
 	<div class="rainbow-color">
         <h1 style="color:#ffffff">MisakaNo.23300小站</h1>
     </div>
-    
 
-	
 	<hr>
 	<div class="tupian">
  
@@ -94,4 +93,33 @@
 	<p></p>
     <a href="https://github.com/MisakaNo23300/MisakaNo23300.github.io/blob/main/index.html">Github@EditHtml</a>
 </body>
+
+
+ <script type="text/javascript">
+ 
+    //自动随机壁纸
+    //时间间隔(单位毫秒)
+    var timeInterval = 2000;
+    var imgAutoChangeURL = new Array();
+    imgAutoChangeURL[0] = "https://www.helloimg.com/images/2022/12/15/o5rajQ.png";
+    imgAutoChangeURL[1] = "https://www.helloimg.com/images/2022/12/15/o5rPNC.jpg"; 
+    imgAutoChangeURL[2] = "https://www.helloimg.com/images/2022/12/15/o5rFAS.jpg"; 
+	imgAutoChangeURL[3] = "https://www.helloimg.com/images/2022/12/15/o5roGD.png"; 
+    imgAutoChangeURL[4] = "https://www.helloimg.com/images/2022/12/15/o5rRIo.png"; 
+	imgAutoChangeURL[5] = "https://www.helloimg.com/images/2022/12/15/o5rtAg.jpg";
+	imgAutoChangeURL[6] = "https://www.helloimg.com/images/2022/12/15/o5rsRX.jpg";
+	imgAutoChangeURL[7] = "https://www.helloimg.com/images/2022/12/15/o5rx1E.jpg";
+	imgAutoChangeURL[8] = "https://www.helloimg.com/images/2022/12/15/o5rekv.jpg";
+	imgAutoChangeURL[9] = "https://www.helloimg.com/images/2022/12/15/o5rX9u.png";
+	imgAutoChangeURL[10] = "https://www.helloimg.com/images/2022/12/15/o5rGbb.jpg";
+	imgAutoChangeURL[11] = "https://www.helloimg.com/images/2022/12/15/o5rCaK.jpg";
+	imgAutoChangeURL[12] = "https://www.helloimg.com/images/2022/12/15/o5r5k1.jpg";
+    setInterval(changeImg, timeInterval);
+    function changeImg() {
+        var curIndex = Math.round( Math.random() * imgAutoChangeURL.length );
+	    document.body.style.backgroundImage = "URL("+imgAutoChangeURL[curIndex]+")"; 
+	}
+	
+</script>
+	
 </html>
