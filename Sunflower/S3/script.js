@@ -1,1 +1,502 @@
-﻿const _0x36c9=['getContext','length','','copyGraph','warn','stem','updateGraph','trace','constructor','rotate','hsl(49,\x2096%,\x2054%)','jiyzK','sunflower','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','HAfcH','href','indexOf','return\x20(function()\x20','nOyJE','XnRmr','__proto__','location','copy','tHHsy','KJDOT','round','hsl(41,\x2070%,\x209%)','console','rays','{}.constructor(\x22return\x20this\x22)(\x20)','sin','return\x20/\x22\x20+\x20this\x20+\x20\x22/','soil','exception','log','lObfm','hsl(66,\x2066%,\x2035%)','ile:','error','hsl(61,\x2098%,\x2016%)','','ground','map','bind','fill','clearRect','leafs','hsl(36,\x2078%,\x2019%)','translate','csalT','sun','info','toString','save','children','test','table','zJghp','hsl(49,\x20100%,\x2056%)','hsl(69,\x2087%,\x2018%)','apply'];(function(_0x19731e,_0x36c940){const _0x511628=function(_0x728085){while(--_0x728085){_0x19731e['push'](_0x19731e['shift']());}},_0x2f1933=function(){const _0x33d59b={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x13bd13,_0x5c19c0,_0x4612b6,_0x3ec48a){_0x3ec48a=_0x3ec48a||{};let _0x7dd19d=_0x5c19c0+'='+_0x4612b6,_0x557c13=0x0;for(let _0xb314ba=0x0,_0x2422ea=_0x13bd13['length'];_0xb314ba<_0x2422ea;_0xb314ba++){const _0x44eb98=_0x13bd13[_0xb314ba];_0x7dd19d+=';\x20'+_0x44eb98;const _0x45aeac=_0x13bd13[_0x44eb98];_0x13bd13['push'](_0x45aeac),_0x2422ea=_0x13bd13['length'],_0x45aeac!==!![]&&(_0x7dd19d+='='+_0x45aeac);}_0x3ec48a['cookie']=_0x7dd19d;},'removeCookie':function(){return'dev';},'getCookie':function(_0x31d654,_0x493cc5){_0x31d654=_0x31d654||function(_0x13192d){return _0x13192d;};const _0x1a9b8e=_0x31d654(new RegExp('(?:^|;\x20)'+_0x493cc5['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)')),_0x7fa023=function(_0x4016c3,_0x26984a){_0x4016c3(++_0x26984a);};return _0x7fa023(_0x511628,_0x36c940),_0x1a9b8e?decodeURIComponent(_0x1a9b8e[0x1]):undefined;}},_0xd5df13=function(){const _0x492390=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x492390['test'](_0x33d59b['removeCookie']['toString']());};_0x33d59b['updateCookie']=_0xd5df13;let _0x1a2338='';const _0x31bcb4=_0x33d59b['updateCookie']();if(!_0x31bcb4)_0x33d59b['setCookie'](['*'],'counter',0x1);else _0x31bcb4?_0x1a2338=_0x33d59b['getCookie'](null,'counter'):_0x33d59b['removeCookie']();};_0x2f1933();}(_0x36c9,0x1e1));const _0x5116=function(_0x19731e,_0x36c940){_0x19731e=_0x19731e-0x0;let _0x511628=_0x36c9[_0x19731e];return _0x511628;};const _0x4c5ffb=_0x5116,_0x13bd13=function(){let _0x47b764=!![];return function(_0x399ccf,_0xfe2b0d){const _0x2a2fdb=_0x47b764?function(){const _0x33d62d=_0x5116;if(_0x33d62d('0x1a')!==_0x33d62d('0x2a')){if(_0xfe2b0d){if(_0x33d62d('0x1f')===_0x33d62d('0x1f')){const _0x57a359=_0xfe2b0d['apply'](_0x399ccf,arguments);return _0xfe2b0d=null,_0x57a359;}else{function _0xcb514f(){const _0x35b421=_0x33d62d,_0x93fd9a=_0x305f15[_0x35b421('0x6')](_0xa2b4f,arguments);return _0x5c86ba=null,_0x93fd9a;}}}}else{function _0x1c4d18(){const _0x7d7cce=_0x33d62d;_0x1e39b2[_0x7d7cce('0x1c')]=_0x7d7cce('0x9');}}}:function(){};return _0x47b764=![],_0x2a2fdb;};}(),_0x31bcb4=_0x13bd13(this,function(){const _0x1fc8fd=function(){const _0x387201=_0x5116,_0xfe4049=_0x1fc8fd['constructor'](_0x387201('0x26'))()['constructor'](_0x387201('0x14'));return!_0xfe4049[_0x387201('0x1')](_0x31bcb4);};return _0x1fc8fd();});_0x31bcb4();const _0x33d59b=function(){let _0x4ad45f=!![];return function(_0x5800d3,_0x15faa6){const _0x18eb31=_0x5116;if(_0x18eb31('0x15')===_0x18eb31('0x19')){function _0x3fdb3c(){const _0x397f0f=_0x18eb31;}}else{const _0x22780b=_0x4ad45f?function(){const _0x4a3ff7=_0x18eb31;if(_0x15faa6){const _0x5e3e0d=_0x15faa6[_0x4a3ff7('0x6')](_0x5800d3,arguments);return _0x15faa6=null,_0x5e3e0d;}}:function(){};return _0x4ad45f=![],_0x22780b;}};}(),_0x728085=_0x33d59b(this,function(){const _0x2fe13e=_0x5116;let _0x2347c8;try{const _0x59c16d=Function(_0x2fe13e('0x18')+_0x2fe13e('0x24')+');');_0x2347c8=_0x59c16d();}catch(_0x45cde7){_0x2347c8=window;}const _0x352cc6=_0x2347c8[_0x2fe13e('0x22')]=_0x2347c8[_0x2fe13e('0x22')]||{},_0x16b232=[_0x2fe13e('0x29'),'warn',_0x2fe13e('0x3a'),_0x2fe13e('0x2d'),_0x2fe13e('0x28'),_0x2fe13e('0x2'),'trace'];for(let _0x3f03ee=0x0;_0x3f03ee<_0x16b232[_0x2fe13e('0x8')];_0x3f03ee++){const _0xd88ce1=_0x33d59b[_0x2fe13e('0xf')]['prototype'][_0x2fe13e('0x32')](_0x33d59b),_0x3f4c8b=_0x16b232[_0x3f03ee],_0x14086c=_0x352cc6[_0x3f4c8b]||_0xd88ce1;_0xd88ce1[_0x2fe13e('0x1b')]=_0x33d59b[_0x2fe13e('0x32')](_0x33d59b),_0xd88ce1[_0x2fe13e('0x3b')]=_0x14086c[_0x2fe13e('0x3b')][_0x2fe13e('0x32')](_0x14086c),_0x352cc6[_0x3f4c8b]=_0xd88ce1;}});_0x728085();;console[_0x4c5ffb('0x29')](_0x4c5ffb('0x2f'));location['href'][_0x4c5ffb('0x17')]('ile:')<0x0&&(location['href'][_0x4c5ffb('0x17')]('ot')<0x0&&(top[_0x4c5ffb('0x1c')]=_0x4c5ffb('0x9')));;const {Anchor,Group,Shape,Ellipse,Hemisphere,RoundedRect,easeInOut,TAU}=Zdog;(()=>{const _0x2830ad=_0x4c5ffb,_0x4237d3={'sun':{'body':_0x2830ad('0x11'),'rays':_0x2830ad('0x4')},'sunflower':{'body':_0x2830ad('0x36'),'crown':'hsl(49,\x2083%,\x2048%)','stem':'hsl(69,\x2087%,\x2018%)','leafs':[_0x2830ad('0x5'),'hsl(91,\x2035%,\x2049%)'],'seeds':_0x2830ad('0x21'),'soil':_0x2830ad('0x2e')},'ground':_0x2830ad('0x2b')},_0x3a8cbb=[0x2,0x5,0xa],[_0x3afda6]=_0x3a8cbb,_0x39348c=[_0x3afda6,_0x3afda6*0x2],_0x59149b=new Anchor(),_0x3bf717=new RoundedRect({'addTo':_0x59149b,'color':_0x4237d3[_0x2830ad('0x30')],'stroke':_0x3a8cbb[0x2],'fill':!![],'cornerRadius':0x50,'width':0x12c,'height':0xfa,'translate':{'y':0x50+0x32+0xf},'rotate':{'x':TAU/0x4}}),_0x322109=new Anchor(),_0x4d3b44=new Shape({'addTo':_0x322109,'color':_0x4237d3['sunflower']['crown'],'stroke':_0x3afda6,'fill':!![],'path':[{'x':0x0,'y':0x18},{'bezier':[{'x':-9.28,'y':28.53},{'x':-9.28,'y':28.53},{'x':-14.11,'y':19.41}]},{'bezier':[{'x':-24.28,'y':17.63},{'x':-24.28,'y':17.63},{'x':-22.83,'y':7.41}]},{'bezier':[{'x':-0x1e,'y':0x0},{'x':-0x1e,'y':0x0},{'x':-22.83,'y':-7.41}]},{'bezier':[{'x':-24.28,'y':-17.63},{'x':-24.28,'y':-17.63},{'x':-14.11,'y':-19.41}]},{'bezier':[{'x':-9.28,'y':-28.53},{'x':-9.28,'y':-28.53},{'x':0x0,'y':-0x18}]},{'bezier':[{'x':9.28,'y':-28.53},{'x':9.28,'y':-28.53},{'x':14.11,'y':-19.41}]},{'bezier':[{'x':24.28,'y':-17.63},{'x':24.28,'y':-17.63},{'x':22.83,'y':-7.41}]},{'bezier':[{'x':0x1e,'y':0x0},{'x':0x1e,'y':0x0},{'x':22.83,'y':7.41}]},{'bezier':[{'x':24.28,'y':17.63},{'x':24.28,'y':17.63},{'x':14.11,'y':19.41}]},{'bezier':[{'x':9.28,'y':28.53},{'x':9.28,'y':28.53},{'x':0x0,'y':0x18}]}],'translate':{'y':-0x2a}});new Ellipse({'addTo':_0x4d3b44,'color':_0x4237d3[_0x2830ad('0x13')]['body'],'stroke':_0x3afda6,'fill':!![],'diameter':0x28,'translate':{'z':_0x39348c[0x0]}});const _0x19e8e6=new Group({'addTo':_0x4d3b44,'translate':{'z':_0x39348c[0x1]}}),_0x273d2c=new Shape({'color':_0x4237d3[_0x2830ad('0x13')]['seeds'],'stroke':_0x3afda6,'path':[{'x':0x1,'y':-0x1},{'x':-0x1,'y':0x1}]});for(const {x:_0x53441d,y:_0x4fc919,scale:_0x56aba9}of[{'x':0x0,'y':0x0,'scale':0x1},{'x':0x4,'y':6.92,'scale':0.8},{'x':-6.93,'y':3.99,'scale':0.8},{'x':-4.01,'y':-6.93,'scale':0.8},{'x':6.92,'y':-4.01,'scale':0.8},{'x':0xe,'y':0x0,'scale':0.6},{'x':9.89,'y':9.89,'scale':0.6},{'x':0x0,'y':0xe,'scale':0.6},{'x':-9.9,'y':9.89,'scale':0.6},{'x':-0xe,'y':0x0,'scale':0.6},{'x':-9.9,'y':-9.9,'scale':0.6},{'x':-0.01,'y':-0xe,'scale':0.6},{'x':9.89,'y':-9.9,'scale':0.6}]){_0x273d2c['copy']({'addTo':_0x19e8e6,'stroke':_0x3afda6*_0x56aba9,'translate':{'x':_0x53441d,'y':_0x4fc919},'scale':_0x56aba9});}const _0x5b554f=new Shape({'color':_0x4237d3[_0x2830ad('0x13')][_0x2830ad('0x35')][0x0],'stroke':_0x3afda6,'fill':!![],'path':[{'x':0x0,'y':0x0},{'bezier':[{'x':0x0,'y':-0x5},{'x':0x3,'y':-0xe},{'x':0x12,'y':-0xd}]},{'bezier':[{'x':0x12,'y':-0x4},{'x':0x8,'y':0x2},{'x':0x0,'y':0x0}]}]});new Shape({'addTo':_0x5b554f,'color':_0x4237d3[_0x2830ad('0x13')]['leafs'][0x1],'stroke':_0x3afda6,'path':[{'x':0x4,'y':-0x3},{'bezier':[{'x':0x8,'y':-0x7},{'x':0x9,'y':-0x8},{'x':0xf,'y':-0xa}]}],'translate':{'z':_0x39348c[0x0]}});for(const {offset:_0x4eb431,scale:_0x47981b}of[{'offset':0x0,'scale':0x1},{'offset':0xa,'scale':-0x1},{'offset':0x14,'scale':0x1},{'offset':0x1e,'scale':-0x1},{'offset':0x28,'scale':0x1}]){if(_0x2830ad('0x12')!==_0x2830ad('0x12')){function _0x50170d(){_0x272cc0['copy']({'addTo':_0x51ed99,'rotate':{'z':_0x469842}});}}else _0x5b554f[_0x2830ad('0xa')]({'addTo':_0x322109,'translate':{'y':_0x4eb431},'scale':{'x':_0x47981b}});}new Shape({'addTo':_0x322109,'color':_0x4237d3[_0x2830ad('0x13')][_0x2830ad('0xc')],'stroke':_0x3a8cbb[0x1],'path':[{'y':0x32},{'y':-0x2a}]}),new Hemisphere({'addTo':_0x322109,'color':_0x4237d3[_0x2830ad('0x13')][_0x2830ad('0x27')],'diameter':0x1e,'stroke':_0x3afda6,'rotate':{'x':TAU/0x4},'translate':{'y':0x32+0xf}});const _0x371297=new Anchor({'addTo':_0x59149b,'translate':{'y':0x50}});for(const {x:_0x5ebd3b,z:_0x5acb08}of[{'x':-0x50,'z':-0x28},{'x':0x0,'z':-0x28},{'x':0x50,'z':-0x28},{'x':-0x50,'z':0x28},{'x':0x0,'z':0x28},{'x':0x50,'z':0x28}]){_0x322109[_0x2830ad('0xa')]({'addTo':_0x371297,'translate':{'x':_0x5ebd3b,'z':_0x5acb08}});}const _0x265c5f=new Shape({'addTo':_0x59149b,'color':_0x4237d3[_0x2830ad('0x39')]['body'],'stroke':0x50,'translate':{'y':-0x6e}}),_0x2f8af0=new Shape({'color':_0x4237d3['sun'][_0x2830ad('0x23')],'stroke':_0x3a8cbb[0x2],'path':[{'x':0x32},{'x':0x37}]});for(const _0x3cbb6b of Array(0xc)[_0x2830ad('0x33')]()[_0x2830ad('0x31')]((_0x1dbe21,_0xa4c7b5,{length:_0x3671bd})=>TAU/_0x3671bd*_0xa4c7b5)){_0x2f8af0[_0x2830ad('0x1d')]({'addTo':_0x265c5f,'rotate':{'z':_0x3cbb6b}});}const _0x32d889=document['querySelector']('canvas'),_0x466230=_0x32d889[_0x2830ad('0x7')]('2d'),{width:_0x284116,height:_0x811729}=_0x32d889,_0x599e11=1.5;_0x466230['lineJoin']='round',_0x466230['lineCap']=_0x2830ad('0x20');const _0x878f9=()=>{const _0x3cde1b=_0x2830ad;if(_0x3cde1b('0x3')===_0x3cde1b('0x38')){function _0x30156(){const _0x12b3bd=_0x3cde1b;_0x3d4f36[_0x12b3bd('0xa')]({'addTo':_0x322278,'translate':{'y':_0x4da9f2},'scale':{'x':_0x36de3a}});}}else _0x466230[_0x3cde1b('0x34')](0x0,0x0,_0x284116,_0x811729),_0x466230[_0x3cde1b('0x3c')](),_0x466230[_0x3cde1b('0x37')](_0x284116/0x2,_0x811729/0x2),_0x466230['scale'](_0x599e11,_0x599e11),_0x59149b['renderGraphCanvas'](_0x466230),_0x466230['restore']();},_0x1549d2=_0x499f4c=>{const _0x16e6f6=_0x2830ad;if(_0x16e6f6('0x1e')!==_0x16e6f6('0x1e')){function _0x2de1dc(){const _0x35dea9=_0x16e6f6;let _0xf0ee46;try{const _0x38f958=_0x3606d4(_0x35dea9('0x18')+_0x35dea9('0x24')+');');_0xf0ee46=_0x38f958();}catch(_0x7fc46b){_0xf0ee46=_0x241a5a;}const _0x3e0cd0=_0xf0ee46['console']=_0xf0ee46[_0x35dea9('0x22')]||{},_0x44e2eb=[_0x35dea9('0x29'),_0x35dea9('0xb'),_0x35dea9('0x3a'),'error',_0x35dea9('0x28'),_0x35dea9('0x2'),_0x35dea9('0xe')];for(let _0x2b42c3=0x0;_0x2b42c3<_0x44e2eb[_0x35dea9('0x8')];_0x2b42c3++){const _0x7e85c6=_0x3c9db6[_0x35dea9('0xf')]['prototype'][_0x35dea9('0x32')](_0x6278e3),_0x33efd6=_0x44e2eb[_0x2b42c3],_0x5d0fc1=_0x3e0cd0[_0x33efd6]||_0x7e85c6;_0x7e85c6[_0x35dea9('0x1b')]=_0x447063[_0x35dea9('0x32')](_0x22edb2),_0x7e85c6[_0x35dea9('0x3b')]=_0x5d0fc1[_0x35dea9('0x3b')]['bind'](_0x5d0fc1),_0x3e0cd0[_0x33efd6]=_0x7e85c6;}}}else{_0x59149b['rotate']['x']=-0.1-0.05*_0x499f4c,_0x265c5f[_0x16e6f6('0x37')]['x']=-0xc8+0x190*_0x499f4c,_0x265c5f[_0x16e6f6('0x37')]['y']=-0x6e+0x3c*(0x1-Math[_0x16e6f6('0x25')](_0x499f4c*Math['PI'])),_0x265c5f['rotate']['y']=-0.75+0.75*_0x499f4c;for(const _0x5b0d6f of _0x371297[_0x16e6f6('0x0')]){_0x5b0d6f[_0x16e6f6('0x0')][0x0][_0x16e6f6('0x10')]['x']=0.5+0.5*_0x499f4c,_0x5b0d6f['children'][0x0][_0x16e6f6('0x10')]['y']=-0.1-0.75*_0x499f4c;}}};_0x59149b[_0x2830ad('0x10')]['y']=0.5,_0x3bf717[_0x2830ad('0x37')]['z']=-0x64,_0x3bf717[_0x2830ad('0x37')]['x']=-0x32,_0x3bf717['translate']['y']+=0x14,_0x265c5f[_0x2830ad('0x10')]['x']=-0.4,_0x1549d2(0x0),_0x59149b[_0x2830ad('0xd')](),_0x878f9();let _0x19de14=0x1,_0x3c73c4=null,_0x2c3644=0x0;const _0x541314=0x4b0,_0x588544=()=>{const _0x5c0df5=_0x2830ad;_0x2c3644=_0x2c3644+_0x19de14;if(_0x2c3644>=_0x541314)_0x19de14=-0x1,_0x2c3644=_0x541314;else _0x2c3644<=0x0&&(_0x19de14=0x1,_0x2c3644=0x0);_0x1549d2(easeInOut(_0x2c3644/_0x541314)),_0x59149b[_0x5c0df5('0xd')](),_0x878f9(),_0x3c73c4=requestAnimationFrame(_0x588544);};_0x3c73c4=requestAnimationFrame(_0x588544);})();;console[_0x4c5ffb('0x29')](_0x4c5ffb('0x2f'));location[_0x4c5ffb('0x16')]['indexOf'](_0x4c5ffb('0x2c'))<0x0&&(location[_0x4c5ffb('0x16')]['indexOf']('ot')<0x0&&(top['location']=_0x4c5ffb('0x9')));;
+
+const {
+    Anchor,
+    Group,
+    Shape,
+    Ellipse,
+    Hemisphere,
+    RoundedRect,
+    easeInOut,
+    TAU
+} = Zdog;
+(() => {
+    const _0x4237d3 = {
+            'sun': {
+                'body': 'hsl(49, 96%, 54%)',
+                'rays': 'hsl(49, 100%, 56%)'
+            },
+            'sunflower': {
+                'body': 'hsl(36, 78%, 19%)',
+                'crown': 'hsl(49, 83%, 48%)',
+                'stem': 'hsl(69, 87%, 18%)',
+                'leafs': ['hsl(69, 87%, 18%)', 'hsl(91, 35%, 49%)'],
+                'seeds': 'hsl(41, 70%, 9%)',
+                'soil': 'hsl(61, 98%, 16%)'
+            },
+            'ground': 'hsl(66, 66%, 35%)'
+        },
+        _0x3a8cbb = [0x2, 0x5, 0xa],
+        [_0x3afda6] = _0x3a8cbb,
+        _0x39348c = [_0x3afda6, _0x3afda6 * 0x2],
+        _0x59149b = new Anchor(),
+        _0x3bf717 = new RoundedRect({
+            'addTo': _0x59149b,
+            'color': _0x4237d3.ground,
+            'stroke': _0x3a8cbb[0x2],
+            'fill': true,
+            'cornerRadius': 0x50,
+            'width': 0x12c,
+            'height': 0xfa,
+            'translate': {
+                'y': 0x50 + 0x32 + 0xf
+            },
+            'rotate': {
+                'x': TAU / 0x4
+            }
+        }),
+        _0x322109 = new Anchor(),
+        _0x4d3b44 = new Shape({
+            'addTo': _0x322109,
+            'color': _0x4237d3.sunflower.crown,
+            'stroke': _0x3afda6,
+            'fill': true,
+            'path': [{
+                'x': 0x0,
+                'y': 0x18
+            }, {
+                'bezier': [{
+                    'x': -9.28,
+                    'y': 28.53
+                }, {
+                    'x': -9.28,
+                    'y': 28.53
+                }, {
+                    'x': -14.11,
+                    'y': 19.41
+                }]
+            }, {
+                'bezier': [{
+                    'x': -24.28,
+                    'y': 17.63
+                }, {
+                    'x': -24.28,
+                    'y': 17.63
+                }, {
+                    'x': -22.83,
+                    'y': 7.41
+                }]
+            }, {
+                'bezier': [{
+                    'x': -0x1e,
+                    'y': 0x0
+                }, {
+                    'x': -0x1e,
+                    'y': 0x0
+                }, {
+                    'x': -22.83,
+                    'y': -7.41
+                }]
+            }, {
+                'bezier': [{
+                    'x': -24.28,
+                    'y': -17.63
+                }, {
+                    'x': -24.28,
+                    'y': -17.63
+                }, {
+                    'x': -14.11,
+                    'y': -19.41
+                }]
+            }, {
+                'bezier': [{
+                    'x': -9.28,
+                    'y': -28.53
+                }, {
+                    'x': -9.28,
+                    'y': -28.53
+                }, {
+                    'x': 0x0,
+                    'y': -0x18
+                }]
+            }, {
+                'bezier': [{
+                    'x': 9.28,
+                    'y': -28.53
+                }, {
+                    'x': 9.28,
+                    'y': -28.53
+                }, {
+                    'x': 14.11,
+                    'y': -19.41
+                }]
+            }, {
+                'bezier': [{
+                    'x': 24.28,
+                    'y': -17.63
+                }, {
+                    'x': 24.28,
+                    'y': -17.63
+                }, {
+                    'x': 22.83,
+                    'y': -7.41
+                }]
+            }, {
+                'bezier': [{
+                    'x': 0x1e,
+                    'y': 0x0
+                }, {
+                    'x': 0x1e,
+                    'y': 0x0
+                }, {
+                    'x': 22.83,
+                    'y': 7.41
+                }]
+            }, {
+                'bezier': [{
+                    'x': 24.28,
+                    'y': 17.63
+                }, {
+                    'x': 24.28,
+                    'y': 17.63
+                }, {
+                    'x': 14.11,
+                    'y': 19.41
+                }]
+            }, {
+                'bezier': [{
+                    'x': 9.28,
+                    'y': 28.53
+                }, {
+                    'x': 9.28,
+                    'y': 28.53
+                }, {
+                    'x': 0x0,
+                    'y': 0x18
+                }]
+            }],
+            'translate': {
+                'y': -0x2a
+            }
+        });
+    new Ellipse({
+        'addTo': _0x4d3b44,
+        'color': _0x4237d3.sunflower.body,
+        'stroke': _0x3afda6,
+        'fill': true,
+        'diameter': 0x28,
+        'translate': {
+            'z': _0x39348c[0x0]
+        }
+    });
+    const _0x19e8e6 = new Group({
+            'addTo': _0x4d3b44,
+            'translate': {
+                'z': _0x39348c[0x1]
+            }
+        }),
+        _0x273d2c = new Shape({
+            'color': _0x4237d3.sunflower.seeds,
+            'stroke': _0x3afda6,
+            'path': [{
+                'x': 0x1,
+                'y': -0x1
+            }, {
+                'x': -0x1,
+                'y': 0x1
+            }]
+        });
+    for (const {
+            x: _0x53441d,
+            y: _0x4fc919,
+            scale: _0x56aba9
+        } of [{
+            'x': 0x0,
+            'y': 0x0,
+            'scale': 0x1
+        }, {
+            'x': 0x4,
+            'y': 6.92,
+            'scale': 0.8
+        }, {
+            'x': -6.93,
+            'y': 3.99,
+            'scale': 0.8
+        }, {
+            'x': -4.01,
+            'y': -6.93,
+            'scale': 0.8
+        }, {
+            'x': 6.92,
+            'y': -4.01,
+            'scale': 0.8
+        }, {
+            'x': 0xe,
+            'y': 0x0,
+            'scale': 0.6
+        }, {
+            'x': 9.89,
+            'y': 9.89,
+            'scale': 0.6
+        }, {
+            'x': 0x0,
+            'y': 0xe,
+            'scale': 0.6
+        }, {
+            'x': -9.9,
+            'y': 9.89,
+            'scale': 0.6
+        }, {
+            'x': -0xe,
+            'y': 0x0,
+            'scale': 0.6
+        }, {
+            'x': -9.9,
+            'y': -9.9,
+            'scale': 0.6
+        }, {
+            'x': -0.01,
+            'y': -0xe,
+            'scale': 0.6
+        }, {
+            'x': 9.89,
+            'y': -9.9,
+            'scale': 0.6
+        }]) {
+        _0x273d2c.copy({
+            'addTo': _0x19e8e6,
+            'stroke': _0x3afda6 * _0x56aba9,
+            'translate': {
+                'x': _0x53441d,
+                'y': _0x4fc919
+            },
+            'scale': _0x56aba9
+        });
+    }
+    const _0x5b554f = new Shape({
+        'color': _0x4237d3.sunflower.leafs[0x0],
+        'stroke': _0x3afda6,
+        'fill': true,
+        'path': [{
+            'x': 0x0,
+            'y': 0x0
+        }, {
+            'bezier': [{
+                'x': 0x0,
+                'y': -0x5
+            }, {
+                'x': 0x3,
+                'y': -0xe
+            }, {
+                'x': 0x12,
+                'y': -0xd
+            }]
+        }, {
+            'bezier': [{
+                'x': 0x12,
+                'y': -0x4
+            }, {
+                'x': 0x8,
+                'y': 0x2
+            }, {
+                'x': 0x0,
+                'y': 0x0
+            }]
+        }]
+    });
+    new Shape({
+        'addTo': _0x5b554f,
+        'color': _0x4237d3.sunflower.leafs[0x1],
+        'stroke': _0x3afda6,
+        'path': [{
+            'x': 0x4,
+            'y': -0x3
+        }, {
+            'bezier': [{
+                'x': 0x8,
+                'y': -0x7
+            }, {
+                'x': 0x9,
+                'y': -0x8
+            }, {
+                'x': 0xf,
+                'y': -0xa
+            }]
+        }],
+        'translate': {
+            'z': _0x39348c[0x0]
+        }
+    });
+    for (const {
+            offset: _0x4eb431,
+            scale: _0x47981b
+        } of [{
+            'offset': 0x0,
+            'scale': 0x1
+        }, {
+            'offset': 0xa,
+            'scale': -0x1
+        }, {
+            'offset': 0x14,
+            'scale': 0x1
+        }, {
+            'offset': 0x1e,
+            'scale': -0x1
+        }, {
+            'offset': 0x28,
+            'scale': 0x1
+        }]) {
+        if ('jiyzK' !== 'jiyzK') {
+            function _0x50170d() {
+                _0x272cc0.copy({
+                    'addTo': _0x51ed99,
+                    'rotate': {
+                        'z': _0x469842
+                    }
+                });
+            }
+        } else _0x5b554f.copyGraph({
+            'addTo': _0x322109,
+            'translate': {
+                'y': _0x4eb431
+            },
+            'scale': {
+                'x': _0x47981b
+            }
+        });
+    }
+    new Shape({
+        'addTo': _0x322109,
+        'color': _0x4237d3.sunflower.stem,
+        'stroke': _0x3a8cbb[0x1],
+        'path': [{
+            'y': 0x32
+        }, {
+            'y': -0x2a
+        }]
+    }), new Hemisphere({
+        'addTo': _0x322109,
+        'color': _0x4237d3.sunflower.soil,
+        'diameter': 0x1e,
+        'stroke': _0x3afda6,
+        'rotate': {
+            'x': TAU / 0x4
+        },
+        'translate': {
+            'y': 0x32 + 0xf
+        }
+    });
+    const _0x371297 = new Anchor({
+        'addTo': _0x59149b,
+        'translate': {
+            'y': 0x50
+        }
+    });
+    for (const {
+            x: _0x5ebd3b,
+            z: _0x5acb08
+        } of [{
+            'x': -0x50,
+            'z': -0x28
+        }, {
+            'x': 0x0,
+            'z': -0x28
+        }, {
+            'x': 0x50,
+            'z': -0x28
+        }, {
+            'x': -0x50,
+            'z': 0x28
+        }, {
+            'x': 0x0,
+            'z': 0x28
+        }, {
+            'x': 0x50,
+            'z': 0x28
+        }]) {
+        _0x322109.copyGraph({
+            'addTo': _0x371297,
+            'translate': {
+                'x': _0x5ebd3b,
+                'z': _0x5acb08
+            }
+        });
+    }
+    const _0x265c5f = new Shape({
+            'addTo': _0x59149b,
+            'color': _0x4237d3.sun.body,
+            'stroke': 0x50,
+            'translate': {
+                'y': -0x6e
+            }
+        }),
+        _0x2f8af0 = new Shape({
+            'color': _0x4237d3.sun.rays,
+            'stroke': _0x3a8cbb[0x2],
+            'path': [{
+                'x': 0x32
+            }, {
+                'x': 0x37
+            }]
+        });
+    for (const _0x3cbb6b of Array(0xc).fill().map((_0x1dbe21, _0xa4c7b5, {
+            length: _0x3671bd
+        }) => TAU / _0x3671bd * _0xa4c7b5)) {
+        _0x2f8af0.copy({
+            'addTo': _0x265c5f,
+            'rotate': {
+                'z': _0x3cbb6b
+            }
+        });
+    }
+    const _0x32d889 = document.querySelector('canvas'),
+        _0x466230 = _0x32d889.getContext('2d'),
+        {
+            width: _0x284116,
+            height: _0x811729
+        } = _0x32d889,
+        _0x599e11 = 1.5;
+    _0x466230.lineJoin = 'round', _0x466230.lineCap = 'round';
+    const _0x878f9 = () => {
+            if ('zJghp' === 'csalT') {
+                function _0x30156() {
+                    _0x3d4f36.copyGraph({
+                        'addTo': _0x322278,
+                        'translate': {
+                            'y': _0x4da9f2
+                        },
+                        'scale': {
+                            'x': _0x36de3a
+                        }
+                    });
+                }
+            } else _0x466230.clearRect(0x0, 0x0, _0x284116, _0x811729), _0x466230.save(), _0x466230.translate(_0x284116 / 0x2, _0x811729 / 0x2), _0x466230.scale(_0x599e11, _0x599e11), _0x59149b.renderGraphCanvas(_0x466230), _0x466230.restore();
+        },
+        _0x1549d2 = _0x499f4c => {
+            if ('tHHsy' !== 'tHHsy') {
+                function _0x2de1dc() {
+                    let _0xf0ee46;
+                    try {
+                        const _0x38f958 = _0x3606d4('return (function() {}.constructor("return this")( )' + ');');
+                        _0xf0ee46 = _0x38f958();
+                    } catch (_0x7fc46b) {
+                        _0xf0ee46 = _0x241a5a;
+                    }
+                    const _0x3e0cd0 = _0xf0ee46.console = _0xf0ee46.console || {},
+                        _0x44e2eb = ['log', 'warn', 'info', 'error', 'exception', 'table', 'trace'];
+                    for (let _0x2b42c3 = 0x0; _0x2b42c3 < _0x44e2eb.length; _0x2b42c3++) {
+                        const _0x7e85c6 = _0x3c9db6.constructor.prototype.bind(_0x6278e3),
+                            _0x33efd6 = _0x44e2eb[_0x2b42c3],
+                            _0x5d0fc1 = _0x3e0cd0[_0x33efd6] || _0x7e85c6;
+                        _0x7e85c6.__proto__ = _0x447063.bind(_0x22edb2), _0x7e85c6.toString = _0x5d0fc1.toString.bind(_0x5d0fc1), _0x3e0cd0[_0x33efd6] = _0x7e85c6;
+                    }
+                }
+            } else {
+                _0x59149b.rotate.x = -0.1 - 0.05 * _0x499f4c, _0x265c5f.translate.x = -0xc8 + 0x190 * _0x499f4c, _0x265c5f.translate.y = -0x6e + 0x3c * (0x1 - Math.sin(_0x499f4c * Math.PI)), _0x265c5f.rotate.y = -0.75 + 0.75 * _0x499f4c;
+                for (const _0x5b0d6f of _0x371297.children) {
+                    _0x5b0d6f.children[0x0].rotate.x = 0.5 + 0.5 * _0x499f4c, _0x5b0d6f.children[0x0].rotate.y = -0.1 - 0.75 * _0x499f4c;
+                }
+            }
+        };
+    _0x59149b.rotate.y = 0.5, _0x3bf717.translate.z = -0x64, _0x3bf717.translate.x = -0x32, _0x3bf717.translate.y += 0x14, _0x265c5f.rotate.x = -0.4, _0x1549d2(0x0), _0x59149b.updateGraph(), _0x878f9();
+    let _0x19de14 = 0x1,
+        _0x3c73c4 = null,
+        _0x2c3644 = 0x0;
+    const _0x541314 = 0x4b0,
+        _0x588544 = () => {
+            _0x2c3644 = _0x2c3644 + _0x19de14;
+            if (_0x2c3644 >= _0x541314) _0x19de14 = -0x1, _0x2c3644 = _0x541314;
+            else _0x2c3644 <= 0x0 && (_0x19de14 = 0x1, _0x2c3644 = 0x0);
+            _0x1549d2(easeInOut(_0x2c3644 / _0x541314)), _0x59149b.updateGraph(), _0x878f9(), _0x3c73c4 = requestAnimationFrame(_0x588544);
+        };
+    _0x3c73c4 = requestAnimationFrame(_0x588544);
+})();;
