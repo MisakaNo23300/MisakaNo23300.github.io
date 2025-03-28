@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>智能向日葵生长系统</title>
+    <style>
+        #garden {
+            position: relative;
+            width: 800px;
+            height: 400px;
+            background: linear-gradient(#87CEEB, #E0F6FF);
+            overflow: hidden;
+        }
+
+        /* 水滴动画 */
+        .water-drop {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            background: rgba(0, 191, 255, 0.6);
+            border-radius: 50%;
+            animation: waterDrop 1.5s linear forwards;
+        }
+
+        @keyframes waterDrop {
+            0% { transform: translateY(-50px) scale(0.8); opacity: 0; }
+            50% { opacity: 1; }
+            100% { transform: translateY(150px) scale(1.2); opacity: 0; }
+        }
+
+        /* 向日葵生长动画 */
+        #sunflower {
+            position: absolute;
+            left: 50%;
+            bottom: 50px;
+            transform: translateX(-50%);
+        }
+        
+        .stem {
+            width: 15px;
+            height: 0;
+            background: linear-gradient(#2E8B57, #3CB371);
+            margin: 0 auto;
+            transition: height 2s;
+        }
+
+        .flower {
+            width: 0;
+            height: 0;
+            background: radial-gradient(yellow 45%, darkorange 100%);
+            border-radius: 50%;
+            transition: all 2s 1.5s;
+        }
+
+        .bloom .stem { height: 200px; }
+        .bloom .flower { width: 80px; height: 80px; }
+    </style>
+</head>
+<body>
+    <div id="garden">
+        <canvas id="soilCanvas"></canvas>
+        <div id="sunflower">
+            <div class="stem"></div>
+            <div class="flower"></div>
+        </div>
+    </div>
+    <button id="waterBtn">开始浇水</button>
+
+    <script>
+        // 土壤湿度可视化
+        const canvas = document.getElementById('soilCanvas');
+        const ctx = canvas.getContext('2d');
+        canvas.width = 800;
+        canvas.height = 400;
+
+        let moisture = 0; // 初始湿度0%
+        
+        function drawSoil() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            // 绘制湿润层（根据湿度值动态变化）
+            ctx.fillStyle = `rgba(93,67,44,${moisture/100})`;
+            ctx.fillRect(0, 380, canvas.width, 20);
+            
+            // 土壤颗粒动画
+            for(let i=0; i<200; i++){
+                ctx.beginPath();
+                ctx.arc(Math.random()*800, 380+Math.random()*20, 
+                      moisture > 50 ? 3 : 2, 0, Math.PI*2);
+                ctx.fillStyle = moisture > 50 ? '#5d432c' : '#8b7355';
+                ctx.fill();
+            }
+        }
+
+        // 浇水交互逻辑
+        document.getElementById('waterBtn').addEventListener('click', () => {
+            const sunflower = document.getElementById('sunflower');
+            if(moisture >= 100) return;
+
+            // 模拟灌溉过程
+            const irrigation = setInterval(() => {
+                moisture += 2;
+                drawSoil();
+                
+                if(moisture >= 100) {
+                    clearInterval(irrigation);
+                    sunflower.classList.add('bloom');
+                }
+            }, 100);
+
+            // 添加水滴特效
+            for(let i=0; i<10; i++){
+                const drop = document.createElement('div');
+                drop.className = 'water-drop';
+                drop.style.left = `${canvas.width/2 - 40 + i*80}px`;
+                document.getElementById('garden').appendChild(drop);
+            }
+        });
+
+        // 初始化土壤
+        drawSoil();
+    </script>
+</body>
+</html>
